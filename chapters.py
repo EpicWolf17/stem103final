@@ -13,4 +13,4 @@ def scene_two(choice_one,first_option):
     elif choice_one == first_option[3]:
         print(f"story4")
     else:
-        input("that isn't a choice please pick a choice.:")
+        input("that isn't a choice please pick a choice.:") 
